@@ -1,1 +1,1 @@
-# ClicknCart-E-coomerce
+# ClicknCart-E-commerce
